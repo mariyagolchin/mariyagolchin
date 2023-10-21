@@ -6,7 +6,7 @@ I hold a bachelor’s degree in applied software engineering and a master’s de
 
 Email: mahboobehgolchinpor@gmail.com
 Academic Email:m.golchinpour@ut.ac.ir
-Google Scholar: mariya-golchinpour
+
 
 
 <!--
