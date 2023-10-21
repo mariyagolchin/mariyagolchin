@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Mahboobeh(Mariya) Golchinpour- leili 
+I am a PhD Student in Bioinforrmatics at the University of Tehran, working in Laboratory of Bioinformatics & Computational Genomics (lbcg) Lab
+
+I hold a bachelor’s degree in applied software engineering and a master’s degree in Information Technology Engeeniering, Network Science. I am familiar with Machine learning, Python, Linux and R. Im eager to use my familiarity with Machine learning in order to find better answer for Biological problems
+
+Email: mahboobehgolchinpor@gmail.com
+Academic Email:m.golchinpour@ut.ac.ir
+Google Scholar: mariya-golchinpour
+
+
 <!--
 **mariyagolchin/mariyagolchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
