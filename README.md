@@ -7,10 +7,10 @@ I hold a bachelor’s degree in applied software engineering and a master’s de
 Email: mahboobehgolchinpor@gmail.com
 Academic Email:m.golchinpour@ut.ac.ir
 
-#Skills
-Python, R, 
+### Skills
+Python, R
 
-#Intrests
+### Intrests
 Machine Learning
 Bioinformatics
 
