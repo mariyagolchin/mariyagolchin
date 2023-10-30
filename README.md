@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD Student in Bioinformatics  at the University of Tehran, working in Laboratory of Bioinformatics & Computational Genomics (lbcg) Lab
+I am a PhD Student in Bioinformatics  at the University of Tehran, working in Laboratory of Bioinformatics & Computational Genomics (lbcg) Lab (https://lbcg.ut.ac.ir/)
 
 I hold a bachelor’s degree in applied software engineering and a master’s degree in Information Technology Engeeniering, Network Science. I am familiar with Machine learning, Python, Linux and R. Im eager to use my familiarity with Machine learning in order to find better answer for Biological problems
 
