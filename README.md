@@ -9,8 +9,6 @@ I hold a bachelor’s degree in applied software engineering and a master’s de
 📫 Academic Email:m.golchinpour@ut.ac.ir
 <br>
 📫 Personal page: https://mariyagolchin.github.io/
-<br>
-📫 Personal page:https://mariyagolchin.wordpress.com/
 
 
 ## Skills
