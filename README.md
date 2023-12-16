@@ -10,6 +10,7 @@ I hold a bachelor’s degree in applied software engineering and a master’s de
 <br>
 📫 Personal page: https://mariyagolchin.github.io/
 <br>
+📫 Researchgate:  https://www.researchgate.net/profile/Mariya-Golchinpor
 
 
 
