@@ -16,8 +16,8 @@
 - **Tools & Technologies**: Machine Learning, Linux
 
 ### 📬 Contact Me
-- **Email** for general inquiries: [mahboobehgolchinpor@gmail.com](mailto:mahboobehgolchinpor@gmail.com)
-- **Academic Email**: [m.golchinpour@ut.ac.ir](mailto:m.golchinpour@ut.ac.ir)
-- **Website**: [Visit my personal page](https://mariyagolchin.github.io/)
-- **ResearchGate**: [View my profile](https://www.researchgate.net/profile/Mariya-Golchinpor)
-- **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=5tABF_IAAAAJ&hl=en)
+
+- **[linkedin](https://www.linkedin.com/in/mariyagolchinpour/)**
+- **[Visit my Website](https://mariyagolchin.github.io/)**
+- **[Publications](https://scholar.google.com/citations?user=5tABF_IAAAAJ&hl=en)**
+- **Email [mahboobehgolchinpor@gmail.com](mailto:mahboobehgolchinpor@gmail.com)**
