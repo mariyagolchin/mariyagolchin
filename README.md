@@ -9,7 +9,7 @@
 - **Bachelor's: Computer science (software engineer)**
 - 
 ### 🌿 Currently Exploring
-**My current research focuses on studying gene regulation, particularly the roles of transcription factors (TFs) and enhancers.**
+- **My current research focuses on studying gene regulation, particularly the roles of transcription factors (TFs) and enhancers.**
 
 ### 🛠️ Technical Skills
 - **Languages**: Python, R
@@ -20,4 +20,4 @@
 - **[linkedin](https://www.linkedin.com/in/mariyagolchinpour/)**
 - **[Visit my Website](https://mariyagolchin.github.io/)**
 - **[Publications](https://scholar.google.com/citations?user=5tABF_IAAAAJ&hl=en)**
-- **Email [mahboobehgolchinpor@gmail.com](mailto:mahboobehgolchinpor@gmail.com)**
+- **[Email](mailto:mahboobehgolchinpor@gmail.com)**
