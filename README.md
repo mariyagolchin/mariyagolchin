@@ -6,8 +6,8 @@ I am Mariya Golchinpor, a PhD candidate in Bioinformatics at the University of T
 
 ### 🎓 Academic Journey
 - **PhD**: Bioinformatics, University of Tehran
-- **Master's**: Information Technology Engineering (Network Science)
-- **Bachelor's**: Applied Software Engineering
+- **Master's**: Information Technology Engineering (Network Science), University of Tehran
+- **Bachelor's**: Computer science (software engineer)
 
 ### 🛠️ Technical Skills
 - **Languages**: Python, R
@@ -18,7 +18,7 @@ I am Mariya Golchinpor, a PhD candidate in Bioinformatics at the University of T
 - Machine Learning in Genomics
 
 ### 🌿 Currently Exploring
-- Deep Learning Techniques in Genomics
+- My current research is centered on gene regulation, with a specific emphasis on elucidating the roles of transcription factors (TFs) and enhancers. I am utilizing deep learning techniques to enhance our understanding of how these elements influence gene regulation.
 
 ### 📬 Reach Out!
 - **General Queries**: mahboobehgolchinpor@gmail.com
