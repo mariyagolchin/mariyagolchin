@@ -1,39 +1,36 @@
-## 😄 Hi there 👋
+## Welcome to My GitHub Profile! 😄👋
 
-### About Me
-I am a PhD Student in Bioinformatics at the University of Tehran, actively engaged in research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)).
+### 🧬 About Me
+I'm Mariya Golchinpor, a dedicated PhD student in Bioinformatics at the University of Tehran, currently working with the Laboratory of Bioinformatics & Computational Genomics 
+I am Mariya Golchinpor, a PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics (LBCG Lab)([LBCG Lab](https://lbcg.ut.ac.ir/)). 
 
-#### Education
-- **PhD in Bioinformatics**: University of Tehran
-- **Master's Degree**: Information Technology Engineering, Network Science
-- **Bachelor's Degree**: Applied Software Engineering
+### 🎓 Academic Journey
+- **PhD**: Bioinformatics, University of Tehran
+- **Master's**: Information Technology Engineering (Network Science)
+- **Bachelor's**: Applied Software Engineering
 
-#### Skills
-- **Programming Languages**: Python, R
-- **Technologies**: Machine Learning, Linux
+### 🛠️ Technical Skills
+- **Languages**: Python, R
+- **Tools & Technologies**: Machine Learning, Linux
 
-#### Interests
-- **Primary Field**: Bioinformatics
-- **Special Focus**: Machine Learning Applications in Genomics
+### 🔍 Research Interests
+- Bioinformatics
+- Machine Learning in Genomics
 
-#### Current Learning Focus
-- Deep Learning Applications in Genomics
+### 🌿 Currently Exploring
+- Deep Learning Techniques in Genomics
 
-### Contact Me
-- **Email**: mahboobehgolchinpor@gmail.com
-- **Academic Email**: [m.golchinpour@ut.ac.ir](mailto:m.golchinpour@ut.ac.ir)
-- **Personal Website**: [mariyagolchin.github.io](https://mariyagolchin.github.io/)
+### 📬 Reach Out!
+- **General Queries**: mahboobehgolchinpor@gmail.com
+- **Academic Inquiries**: [m.golchinpour@ut.ac.ir](mailto:m.golchinpour@ut.ac.ir)
+- **Website**: [Visit My Personal Page](https://mariyagolchin.github.io/)
 - **ResearchGate**: [Mariya Golchinpor](https://www.researchgate.net/profile/Mariya-Golchinpor)
-- **Google Scholar**: [View Publications](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5tABF_IAAAAJ)
+- **Google Scholar**: [My Publications](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5tABF_IAAAAJ)
 
 <!--
 **mariyagolchin/mariyagolchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-You can use markdown to make your profile look more dynamic. Here are some markdown elements you might consider adding:
-- Images or GIFs
-- Bullet points
-- Bold and italic text
-- Links to projects or code snippets
--->
-
-Feel free to connect with me to collaborate or discuss academic and professional opportunities!
+Here are some ideas to get you started:
+- Consider including a portfolio section if you have personal projects.
+- You might want to share some personal anecdotes or professional achievements.
+- Perh
