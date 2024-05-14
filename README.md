@@ -1,39 +1,39 @@
 ## 😄 Hi there 👋
 
-I am a PhD Student in Bioinformatics  at the University of Tehran, working in Laboratory of Bioinformatics & Computational Genomics (lbcg) Lab (https://lbcg.ut.ac.ir/)
+### About Me
+I am a PhD Student in Bioinformatics at the University of Tehran, actively engaged in research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)).
 
-I hold a bachelor’s degree in applied software engineering and a master’s degree in Information Technology Engeeniering, Network Science. I am familiar with Machine learning, Python, Linux and R. Im eager to use my familiarity with Machine learning in order to find better answer for Biological problems
+#### Education
+- **PhD in Bioinformatics**: University of Tehran
+- **Master's Degree**: Information Technology Engineering, Network Science
+- **Bachelor's Degree**: Applied Software Engineering
 
-📫 Email: mahboobehgolchinpor@gmail.com
-<br>
-📫 Academic Email:m.golchinpour@ut.ac.ir
-<br>
-📫 Personal page: https://mariyagolchin.github.io/
-<br>
-📫 Researchgate:  https://www.researchgate.net/profile/Mariya-Golchinpor
-<br>
-📫google scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5tABF_IAAAAJ
+#### Skills
+- **Programming Languages**: Python, R
+- **Technologies**: Machine Learning, Linux
 
+#### Interests
+- **Primary Field**: Bioinformatics
+- **Special Focus**: Machine Learning Applications in Genomics
 
-## Skills
-Python, R
+#### Current Learning Focus
+- Deep Learning Applications in Genomics
 
-## Intrests
-Bioinformatics, Machine Learning
-
-🌱 I’m currently learning Bioinformatics specially deep learning in genomics
+### Contact Me
+- **Email**: mahboobehgolchinpor@gmail.com
+- **Academic Email**: [m.golchinpour@ut.ac.ir](mailto:m.golchinpour@ut.ac.ir)
+- **Personal Website**: [mariyagolchin.github.io](https://mariyagolchin.github.io/)
+- **ResearchGate**: [Mariya Golchinpor](https://www.researchgate.net/profile/Mariya-Golchinpor)
+- **Google Scholar**: [View Publications](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5tABF_IAAAAJ)
 
 <!--
 **mariyagolchin/mariyagolchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can use markdown to make your profile look more dynamic. Here are some markdown elements you might consider adding:
+- Images or GIFs
+- Bullet points
+- Bold and italic text
+- Links to projects or code snippets
 -->
+
+Feel free to connect with me to collaborate or discuss academic and professional opportunities!
