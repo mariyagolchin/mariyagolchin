@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 😄👋
 
 ### 🧬 About Me
-<b>I am Mahboobeh (Mariya) Golchinpour, a PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). </b>
+<b>I am Mahboobeh (Mariya) Golchinpour, PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). </b>
 
 ### 🎓 Academic Journey
 - **PhD: Bioinformatics, University of Tehran**
