@@ -1,7 +1,7 @@
 
 
 ### 🧬 About Me
-<b>I am a Bioinformatics Ph.D. candidate at the University of Tehran, working with Dr. Alireza Fotuhi at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). My research interests include Bioinformatics, especially gene regulation, deep learning, and natural language processing.</b>
+<b>I am a Bioinformatics Ph.D. candidate at the University of Tehran, working with [Dr. Alireza Fotuhi Siahpirani](https://scholar.google.com/citations?user=9d4ufiwAAAAJ&hl=en) at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). My research interests include Bioinformatics, especially gene regulation, deep learning, and natural language processing.</b>
 
 ### 🌿 Currently Exploring
 - **My current research focuses on studying gene regulation, particularly the roles of transcription factors (TFs) and enhancers.**
