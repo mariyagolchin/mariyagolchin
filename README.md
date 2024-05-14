@@ -1,12 +1,12 @@
 ## Welcome to My GitHub Profile! 😄👋
 
 ### 🧬 About Me
-I am Mahboobeh (Mariya) Golchinpour, a PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics (LBCG Lab). ([LBCG Lab](https://lbcg.ut.ac.ir/)). 
+<b>I am Mahboobeh (Mariya) Golchinpour, a PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). </b>
 
 ### 🎓 Academic Journey
-- **PhD**: Bioinformatics, University of Tehran
-- **Master's**: Information Technology Engineering (Network Science), University of Tehran
-- **Bachelor's**: Computer science (software engineer)
+- **PhD: Bioinformatics, University of Tehran**
+- **Master's: Information Technology Engineering (Network Science), University of Tehran**
+- **Bachelor's: Computer science (software engineer)**
 
 ### 🛠️ Technical Skills
 - **Languages**: Python, R
@@ -17,8 +17,8 @@ I am Mahboobeh (Mariya) Golchinpour, a PhD candidate in Bioinformatics at the Un
 - Machine Learning in Genomics
 
 ### 🌿 Currently Exploring
-- My current research is centered on gene regulation, with a specific emphasis on elucidating the roles of transcription factors (TFs) and enhancers. I am utilizing deep learning techniques to enhance our understanding of how these elements influence gene regulation.
-
+- **My current research is centered on gene regulation, with a specific emphasis on elucidating the roles of transcription factors (TFs) and enhancers.**
+- 
 ### 📬 Contact Me
 - **Email** for general inquiries: [mahboobehgolchinpor@gmail.com](mailto:mahboobehgolchinpor@gmail.com)
 - **Academic Email**: [m.golchinpour@ut.ac.ir](mailto:m.golchinpour@ut.ac.ir)
