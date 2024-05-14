@@ -1,7 +1,7 @@
 
 
 ### 🧬 About Me
-<b>I am Mahboobeh (Mariya) Golchinpour, PhD candidate in Bioinformatics at the University of Tehran, where I contribute to pioneering research at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)). </b>
+<b>I am a Bioinformatics Ph.D. candidate at the University of Tehran, working with Dr. Alireza Fotuhi at the Laboratory of Bioinformatics & Computational Genomics ([LBCG Lab](https://lbcg.ut.ac.ir/)).</b>
 
 ### 🌿 Currently Exploring
 - **My current research focuses on studying gene regulation, particularly the roles of transcription factors (TFs) and enhancers.**
